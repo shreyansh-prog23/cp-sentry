@@ -1,26 +1,5 @@
 {
-  "last_updated": "2026-05-04T10:04:31.943071+05:30",
-  "total_contests": 2,
-  "contests": [
-    {
-      "id": 6,
-      "name": "AtCoder Heuristic Contest 035",
-      "platform": "atcoder",
-      "start_time_utc": "2026-05-04T12:00:00+00:00",
-      "start_time_ist": "2026-05-04T17:30:00+05:30",
-      "duration_seconds": 32400,
-      "url": "https://atcoder.jp/contests/ahc035",
-      "start_time_display": "Mon, May 4 \u00b7 5:30 PM IST"
-    },
-    {
-      "id": 7,
-      "name": "Codeforces Round 901 (Div. 1)",
-      "platform": "codeforces",
-      "start_time_utc": "2026-05-04T18:05:00+00:00",
-      "start_time_ist": "2026-05-04T23:35:00+05:30",
-      "duration_seconds": 7200,
-      "url": "https://codeforces.com/contests/901",
-      "start_time_display": "Mon, May 4 \u00b7 11:35 PM IST"
-    }
-  ]
+  "last_updated": "2026-05-11T10:23:27.183460+05:30",
+  "total_contests": 0,
+  "contests": []
 }
